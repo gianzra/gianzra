@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianzra&label=Profile%20views&color=0e75b6&style=flat" alt="gianzra" /> </p>
 
-- 🔭 I’m currently study Computer Science in **Sriwijaya University**
+- 🔭 I’m currently study Computer Science in **Sriwijaya University** and Content Creator on Youtube.
 
 - 🌱 I’m currently learning **Java**
 

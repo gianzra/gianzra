@@ -38,4 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianzra&show_icons=true&locale=en&layout=compact" alt="gianzra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gianzra&show_icons=true&locale=en" alt="gianzra" /></p>
+### 📊 Stats
+
+![Gianzra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianzra&show_icons=true&theme=gruvbox)

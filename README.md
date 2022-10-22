@@ -40,7 +40,7 @@
 
 ---
 <!-- Begin Stats Cards -->
-### 📊 Stats
+### 📊 Statistics
 ![Gianzra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianzra&show_icons=true&theme=algolia&border_radius=20)
 
   <p>![GitHub Streak](https://streak-stats.demolab.com?user=gianzra&count_private=true&theme=algolia&border_radius=20)</p>

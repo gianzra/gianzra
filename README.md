@@ -53,8 +53,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianzra&show_icons=true&theme=algolia&border_radius=20" alt="gianzra" /></p>
 <!--  End Stats Cards -->
 
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/gianzra/gianzra/blob/output/github-contribution-grid-snake.gif)
 
 
 

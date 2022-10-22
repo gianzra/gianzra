@@ -21,6 +21,8 @@
       <a href="https://github.com/gianzra?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gianzra?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   ## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/gianzra/gianzra/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
@@ -51,6 +53,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianzra&show_icons=true&theme=algolia&border_radius=20" alt="gianzra" /></p>
 <!--  End Stats Cards -->
 
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/gianzra/gianzra/blob/output/github-contribution-grid-snake.gif)
 
 
 

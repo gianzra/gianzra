@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Android, Web and UI/UX Designer
 
-- 🌱 I’m currently learning ** Back-End Java**
+- 🌱 I’m currently learning **Back-End Java**
 
 - 👨‍💻 All of my projects are available at [https://gianzra.github.io/zrasocialmedia/](https://gianzra.github.io/zrasocialmedia/)
 

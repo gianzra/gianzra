@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently study Computer Science in **Sriwijaya University** and Content Creator on Youtube.
 
-- 🌱 I’m currently learning **Java**
+- 👀 I’m interested in Android, Web and UI/UX Designer
+
+- 🌱 I’m currently learning ** Back-End Java**
 
 - 👨‍💻 All of my projects are available at [https://gianzra.github.io/zrasocialmedia/](https://gianzra.github.io/zrasocialmedia/)
 

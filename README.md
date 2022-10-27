@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andelle Gianzra Basae</h1>
-<h3 align="center">I'm Undergraduate Informatics Engineering Student at Sriwijaya Universityy</h3>
+<h3 align="center">I'm Undergraduate Informatics Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianzra&label=Profile%20views&color=0e75b6&style=flat" alt="gianzra" /> </p>
 
-- 🔭 I’m currently study Computer Science in **Sriwijaya University** and Content Creator on Youtube.
+- 🔭 I’m currently study Computer Science and Content Creator on Youtube.
 
 - 👀 I’m interested in Android, Web and UI/UX Designer
 

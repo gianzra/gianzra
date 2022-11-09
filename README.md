@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gianzra.github.io/zrasocialmedia/](https://gianzra.github.io/zrasocialmedia/)
 
-- ⚡ Fun fact **I'm a Cuber**
+- ⚡ Fun fact **I like Cubing**
 
    <p align="left">
       <a href="https://www.youtube.com/c/Shoraa?sub_confirmation=1">

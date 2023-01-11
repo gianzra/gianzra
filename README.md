@@ -1,4 +1,4 @@
-<!---------------  End Stats Cards ------------>
+<!----------------  End Stats Cards ------------>
 <h1 align="center">Hi 👋, I'm Andelle Gianzra Basae</h1>
 <h3 align="center">I'm Undergraduate Informatics Engineering Student</h3>
 
@@ -57,7 +57,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianzra&show_icons=true&theme=algolia&border_radius=20" alt="gianzra" /></p>
 <!--  End Stats Cards -->
 
-<!----[![@shoraa's Holopin board](https://holopin.me/shoraa)](https://holopin.io/@shoraa) ------------!>
+<!------[![@shoraa's Holopin board](https://holopin.me/shoraa)](https://holopin.io/@shoraa) ------------!>
 
 
 

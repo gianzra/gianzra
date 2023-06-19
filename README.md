@@ -1,4 +1,4 @@
-<!-------------------------------End Stats Cards -------------------->
+<!--------------------------------End Stats Cards -------------------->
 <h1 align=-"center">Hi 👋, I'm Andelle Gianzra Basae</h1>
 <h3 align="center">I'm Undergraduate Informatics Engineering Student</h3>
 

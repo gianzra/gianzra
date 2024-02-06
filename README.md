@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Back-End Java**
 
-- 👨‍💻 All of my projects are available at [https://gianzra.github.io/zrasocialmedia/](https://gianzra.github.io/zrasocialmedia/)
+- 👨‍💻 All of my projects are available at [https://gianzra.github.io/portfolio/](https://gianzra.github.io/portfolio/)
 
 - ⚡ Fun fact **I like Cubing**
 
